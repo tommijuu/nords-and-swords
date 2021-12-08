@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: bffc5d849baf1394a943a472f15042ec
+  - enabled: 1
+    path: Assets/Scenes/Merchant.unity
+    guid: e0655bf05b4f4eb45a19d78312d60b5b
+  - enabled: 1
+    path: Assets/Scenes/CombatScene.unity
+    guid: 940a21a8a060aa14689e2cb7c9731b66
+  - enabled: 1
+    path: Assets/Sandboxes/ToninHiekkalaatikko/ToninScenet/Loading.unity
+    guid: 5ac673ebba9c7474cb1567d7a63bd19a
+  - enabled: 1
+    path: "Assets/Sandboxes/ToninHiekkalaatikko/ToninScenet/\xE4\xE4nitesti.unity"
+    guid: c28a36c9ebbea184480654f7edbc96ce
+  - enabled: 1
+    path: Assets/Scenes/EnviroCombatScene.unity
+    guid: 0d8084cd962cbd84098f4f32da406f51
+  - enabled: 1
+    path: Assets/Scenes/AttributeScene.unity
+    guid: 5b49dc1e01b72f742b64575faf6d6dd8
+  - enabled: 1
+    path: Assets/Scenes/MapScene.unity
+    guid: 62c95d09fb8614048802c742f695e5d5
+  - enabled: 1
+    path: Assets/Sandboxes/Minna/Environment/scenes/enviro_02.unity
+    guid: bbe178b852c1a9640ac7ebabb4407214
+  - enabled: 1
+    path: Assets/Sandboxes/Minna/Environment/scenes/enviro_03_training.unity
+    guid: 89c3c6f3aa72a554d9e2bb3ec041322a
+  m_configObjects: {}

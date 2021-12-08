@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Button
+  - Stamina
+  - Health
+  - Exp
+  - CheckPointLeft
+  - CheckPointRight
+  - Stamina Enemy
+  - Health Enemy
+  - Ground
+  - Bound
+  - pants
+  - boots
+  - helmets
+  - hands
+  - shields
+  - chests
+  - items
+  - Armor
+  - Armor Enemy
+  - music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Player
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
