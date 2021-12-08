@@ -1,0 +1,1032 @@
+fileFormatVersion: 2
+guid: aa4902f91fec8594e93438a115ed56a2
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      74: 3897666784041765673
+    second: step_forward
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'step_forward' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Metropolia_scaleRig_v_29_2018:bkJntDrv_head'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Metropolia_scaleRig_v_29_2018:bkJntDrv_L_shoulder'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: step_forward
+      takeName: step_forward
+      internalID: 0
+      firstFrame: 47.5
+      lastFrame: 58.1
+      wrapMode: 0
+      orientationOffsetY: -54
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 40.8
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_root
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_L_thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_R_thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_L_shin
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_R_shin
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_L_ball
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_R_ball
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_back
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_L_clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_R_clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_L_upperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_R_upperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_L_lowerArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_R_lowerArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_L_wrist
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_R_wrist
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_L_toe
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_R_toe
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJntDrv_L_eye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJntDrv_R_eye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_L_thumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_L_thumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_L_thumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_L_index1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_L_index2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_L_index3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_L_middle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_L_middle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_L_middle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_L_ring1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_L_ring2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_L_ring3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_L_pinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_L_pinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_L_pinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_R_thumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_R_thumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_R_thumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_R_index1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_R_index2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_R_index3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_R_middle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_R_middle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_R_middle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_R_ring1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_R_ring2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_R_ring3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_R_pinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_R_pinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Metropolia_scaleRig_v_29_2018:bkJnt_R_pinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: pelaaja_tpose(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:grp_bakeJoints
+      parentName: pelaaja_tpose(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_root
+      parentName: Metropolia_scaleRig_v_29_2018:grp_bakeJoints
+      position: {x: 3.9968027e-17, y: 1.0950038, z: 0.011820063}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_back
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_root
+      position: {x: -0.061349906, y: 0, z: -3.330669e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_chest
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_back
+      position: {x: -0.15367, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.010188497, w: 0.9999481}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_neck
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_chest
+      position: {x: -0.28037405, y: 2.4424906e-17, z: 0}
+      rotation: {x: -0, y: -0, z: -0.23271063, w: 0.97254604}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJntDrv_head
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_neck
+      position: {x: -0.13429227, y: 8.881784e-18, z: -7.888609e-33}
+      rotation: {x: 0, y: 0, z: 0.23772427, w: 0.97133267}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_head
+      parentName: Metropolia_scaleRig_v_29_2018:bkJntDrv_head
+      position: {x: -0, y: 1.5777218e-32, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJntDrv_jaw
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_head
+      position: {x: 0.015097501, y: -0.0069074547, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_jaw
+      parentName: Metropolia_scaleRig_v_29_2018:bkJntDrv_jaw
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.9101063, w: -0.41437492}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJntEnd_jaw
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_jaw
+      position: {x: -0.12357155, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJntDrv_L_eye
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_head
+      position: {x: -0.033202376, y: 0.05370078, z: 0.033254478}
+      rotation: {x: 0.020877123, y: 0.018161396, z: -0.6560792, w: 0.7541846}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_eye
+      parentName: Metropolia_scaleRig_v_29_2018:bkJntDrv_L_eye
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJntDrv_R_eye
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_head
+      position: {x: -0.033202376, y: 0.05370078, z: -0.033254478}
+      rotation: {x: 0.020877123, y: 0.018161396, z: -0.6560792, w: 0.7541846}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_eye
+      parentName: Metropolia_scaleRig_v_29_2018:bkJntDrv_R_eye
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.007706043, y: -0.054781694, z: -1.279572e-12, w: 0.99846864}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJntEnd_headTop
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_head
+      position: {x: -0.16429597, y: 3.1086245e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJntDrv_L_clavicle
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_chest
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_clavicle
+      parentName: Metropolia_scaleRig_v_29_2018:bkJntDrv_L_clavicle
+      position: {x: -0.07947, y: -0.033896446, z: -0.20671}
+      rotation: {x: -0.00031069427, y: 0.123949416, z: -0.002487284, w: 0.9922854}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJntDrv_L_shoulder
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_clavicle
+      position: {x: -0.14185037, y: -1.7763568e-17, z: 2.842171e-16}
+      rotation: {x: 0.62199473, y: 0.2917637, z: -0.3068757, w: 0.658653}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_upperArm
+      parentName: Metropolia_scaleRig_v_29_2018:bkJntDrv_L_shoulder
+      position: {x: -0, y: 0, z: 1.5777218e-32}
+      rotation: {x: -0.000000059604645, y: -0.0065862685, z: 0.51915354, w: 0.8546557}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_lowerArm
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_upperArm
+      position: {x: -0.38612086, y: 4.440892e-18, z: 4.9303805e-34}
+      rotation: {x: -0.000020919044, y: -0.00015152991, z: -0.02039048, w: 0.99979216}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_wrist
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_lowerArm
+      position: {x: -0.32175907, y: -1.4210854e-16, z: 0}
+      rotation: {x: -0.7042411, y: -0.041768026, z: -0.15665871, w: 0.6912005}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_index1
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_wrist
+      position: {x: -0.038590703, y: 0.021759966, z: -0.0013740703}
+      rotation: {x: 0.000116765455, y: 0.002126166, z: 0.031649414, w: 0.9994968}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_index2
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_index1
+      position: {x: -0.08356892, y: 0.02412603, z: -0.0013124247}
+      rotation: {x: 0.13178042, y: -0.0011099257, z: -0.11259497, w: 0.9848629}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_index3
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_index2
+      position: {x: -0.037178274, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_index4
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_index3
+      position: {x: -0.029560205, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJntEnd_L_index
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_index4
+      position: {x: -0.022246156, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_middle1
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_wrist
+      position: {x: -0.045868184, y: 0.0025185286, z: -2.842171e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_middle2
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_middle1
+      position: {x: -0.074137814, y: 0.007778806, z: -0.009522487}
+      rotation: {x: 0.035051484, y: -0.0379923, z: -0.02790161, w: 0.9982733}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_middle3
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_middle2
+      position: {x: -0.043272305, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_middle4
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_middle3
+      position: {x: -0.028848205, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJntEnd_L_middle
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_middle4
+      position: {x: -0.02404017, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_pinky1
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_wrist
+      position: {x: -0.033685535, y: -0.037389737, z: -3.1974422e-16}
+      rotation: {x: 0.0009262557, y: 0.016868286, z: -0.07750625, w: 0.99684876}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_pinky2
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_pinky1
+      position: {x: -0.056661382, y: -0.01481893, z: -0.003902311}
+      rotation: {x: -0.045736726, y: -0.061107397, z: 0.15915765, w: 0.9842982}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_pinky3
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_pinky2
+      position: {x: -0.033678997, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_pinky4
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_pinky3
+      position: {x: -0.02245267, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJntEnd_L_pinky
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_pinky4
+      position: {x: -0.018710557, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_ring1
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_wrist
+      position: {x: -0.03928625, y: -0.019573683, z: 1.0658141e-16}
+      rotation: {x: 0.001331746, y: 0.024253, z: -0.015229128, w: 0.99958897}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_ring2
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_ring1
+      position: {x: -0.07067286, y: -0.0045195473, z: -0.013377388}
+      rotation: {x: -0.017389758, y: -0.07144299, z: 0.059633296, w: 0.9955086}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_ring3
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_ring2
+      position: {x: -0.03850744, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_ring4
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_ring3
+      position: {x: -0.025671627, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJntEnd_L_ring
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_ring4
+      position: {x: -0.02139302, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_thumb1
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_wrist
+      position: {x: -0.026894115, y: 0.051363084, z: 0.01675113}
+      rotation: {x: -0.020582333, y: 0.099536754, z: -0.3661041, w: 0.9250063}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_thumb2
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_thumb1
+      position: {x: -0.04960519, y: -3.330669e-17, z: 0}
+      rotation: {x: 1.3707824e-24, y: -1.1427856e-15, z: 0.032375377, w: 0.9994758}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_thumb3
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_thumb2
+      position: {x: -0.031104496, y: 0, z: 0}
+      rotation: {x: -0.00000014399718, y: 0.000001883194, z: 0.032779764, w: 0.9994626}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJntEnd_L_thumb
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_thumb3
+      position: {x: -0.044993952, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJntMir_R_arm
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_chest
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJntDrv_R_clavicle
+      parentName: Metropolia_scaleRig_v_29_2018:bkJntMir_R_arm
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_clavicle
+      parentName: Metropolia_scaleRig_v_29_2018:bkJntDrv_R_clavicle
+      position: {x: 0.07947, y: 0.033896446, z: 0.20671}
+      rotation: {x: -0.00031069427, y: 0.123949416, z: -0.002487284, w: 0.9922854}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJntDrv_R_shoulder
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_clavicle
+      position: {x: 0.14185037, y: 1.7763568e-17, z: -2.842171e-16}
+      rotation: {x: 0.62199473, y: 0.2917637, z: -0.3068757, w: 0.658653}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_upperArm
+      parentName: Metropolia_scaleRig_v_29_2018:bkJntDrv_R_shoulder
+      position: {x: -0, y: 3.9443044e-33, z: 0}
+      rotation: {x: -0, y: -0.0065862685, z: 0.51915354, w: 0.8546556}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_lowerArm
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_upperArm
+      position: {x: 0.38612086, y: 0, z: 3.077396e-16}
+      rotation: {x: -0.000020882739, y: -0.00015141301, z: -0.020390479, w: 0.9997921}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_wrist
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_lowerArm
+      position: {x: 0.32175907, y: -1.3322676e-16, z: -2.842171e-16}
+      rotation: {x: -0.7042409, y: -0.04176804, z: -0.15665863, w: 0.6912006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_index1
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_wrist
+      position: {x: 0.038590703, y: -0.021759966, z: 0.0013740703}
+      rotation: {x: 0.00011673567, y: 0.0021261515, z: 0.031649027, w: 0.9994969}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_index2
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_index1
+      position: {x: 0.08356892, y: -0.02412603, z: 0.0013124247}
+      rotation: {x: 0.1317809, y: -0.0011071634, z: -0.11259468, w: 0.9848629}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_index3
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_index2
+      position: {x: 0.037178274, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_index4
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_index3
+      position: {x: 0.029560205, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJntEnd_R_index
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_index4
+      position: {x: 0.022246156, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_middle1
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_wrist
+      position: {x: 0.045868184, y: -0.0025185286, z: 2.842171e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_middle2
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_middle1
+      position: {x: 0.074137814, y: -0.007778806, z: 0.009522487}
+      rotation: {x: 0.035051342, y: -0.0379936, z: -0.027901482, w: 0.99827325}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_middle3
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_middle2
+      position: {x: 0.043272305, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_middle4
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_middle3
+      position: {x: 0.028848205, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJntEnd_R_middle
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_middle4
+      position: {x: 0.02404017, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_pinky1
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_wrist
+      position: {x: 0.033685535, y: 0.037389737, z: 3.1974422e-16}
+      rotation: {x: 0.00092607725, y: 0.016868223, z: -0.07750579, w: 0.9968488}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_pinky2
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_pinky1
+      position: {x: 0.056661382, y: 0.01481893, z: 0.003902311}
+      rotation: {x: -0.045736663, y: -0.06110757, z: 0.15915813, w: 0.98429817}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_pinky3
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_pinky2
+      position: {x: 0.033678997, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_pinky4
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_pinky3
+      position: {x: 0.02245267, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJntEnd_R_pinky
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_pinky4
+      position: {x: 0.018710557, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_ring1
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_wrist
+      position: {x: 0.03928625, y: 0.019573683, z: -1.0658141e-16}
+      rotation: {x: 0.0013316869, y: 0.024253227, z: -0.015229382, w: 0.99958897}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_ring2
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_ring1
+      position: {x: 0.07067286, y: 0.0045195473, z: 0.013377388}
+      rotation: {x: -0.017389879, y: -0.071444534, z: 0.05963309, w: 0.9955085}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_ring3
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_ring2
+      position: {x: 0.03850744, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_ring4
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_ring3
+      position: {x: 0.025671627, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:jntEnd_R_ring
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_ring4
+      position: {x: 0.02139302, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_thumb1
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_wrist
+      position: {x: 0.026894115, y: -0.051363084, z: -0.01675113}
+      rotation: {x: -0.020581597, y: 0.0995384, z: -0.36610344, w: 0.9250064}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_thumb2
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_thumb1
+      position: {x: 0.04960519, y: -3.330669e-17, z: 0}
+      rotation: {x: 1.3707824e-24, y: -1.1427856e-15, z: 0.032375377, w: 0.9994758}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_thumb3
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_thumb2
+      position: {x: 0.031104496, y: 0, z: 0}
+      rotation: {x: -0.00000012385917, y: 0.0000015843633, z: 0.032781634, w: 0.99946254}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJntEnd_R_thumb
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_thumb3
+      position: {x: 0.044993952, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_pelvis
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_root
+      position: {x: 0.061349906, y: 2.7755574e-18, z: 9.244463e-34}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_thigh
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_pelvis
+      position: {x: -0.1286541, y: 2.1094237e-17, z: -0.11}
+      rotation: {x: 0.00026977234, y: 0.0049081775, z: -0.087230615, w: 0.99617606}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_shin
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_thigh
+      position: {x: -0.37818193, y: -4.7949582e-17, z: 4.224687e-17}
+      rotation: {x: 1.48697e-25, y: -1.4077123e-25, z: 0.215776, w: 0.97644293}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_ball
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_shin
+      position: {x: -0.44691703, y: 0, z: 3.979608e-17}
+      rotation: {x: 0.0008700892, y: -0.004838045, z: -0.5484066, w: 0.8361974}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_L_toe
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_ball
+      position: {x: -0.124238625, y: 1.9515272e-17, z: 9.241614e-10}
+      rotation: {x: 0.000000015249059, y: -0.0000000021106934, z: -0.13708267, w: 0.99055964}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJntEnd_L_toeTip
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_L_toe
+      position: {x: -0.061266355, y: 1.33910135e-17, z: 7.0426726e-10}
+      rotation: {x: -0.13878962, y: -0.69335234, z: -0.13878962, w: 0.69335234}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJntMir_R_leg
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_pelvis
+      position: {x: -0.1286541, y: 1.2261255e-17, z: 0.11}
+      rotation: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_thigh
+      parentName: Metropolia_scaleRig_v_29_2018:bkJntMir_R_leg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.00026977138, y: 0.00490818, z: -0.087230645, w: 0.99617606}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_shin
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_thigh
+      position: {x: 0.37818193, y: -4.7949582e-17, z: 4.224687e-17}
+      rotation: {x: -1.1673925e-23, y: 1.10516865e-23, z: 0.21577606, w: 0.9764429}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_ball
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_shin
+      position: {x: 0.44691703, y: 1.4872944e-16, z: 3.979608e-17}
+      rotation: {x: 0.00087000703, y: -0.004837984, z: -0.54840666, w: 0.8361974}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJnt_R_toe
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_ball
+      position: {x: 0.124238625, y: 0, z: 9.241614e-10}
+      rotation: {x: -6.486697e-11, y: 8.587295e-12, z: -0.13708267, w: 0.99055964}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:bkJntEnd_R_toeTip
+      parentName: Metropolia_scaleRig_v_29_2018:bkJnt_R_toe
+      position: {x: 0.061266355, y: 1.33910135e-17, z: 7.0426726e-10}
+      rotation: {x: -0.13878962, y: -0.69335234, z: -0.13878962, w: 0.69335234}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Metropolia_scaleRig_v_29_2018:grp_bakeMesh
+      parentName: pelaaja_tpose(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body
+      parentName: Metropolia_scaleRig_v_29_2018:grp_bakeMesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: brows
+      parentName: Metropolia_scaleRig_v_29_2018:grp_bakeMesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eyeballs
+      parentName: Metropolia_scaleRig_v_29_2018:grp_bakeMesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pupils
+      parentName: Metropolia_scaleRig_v_29_2018:grp_bakeMesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 4db836e061369da4da1c27e78d836ae5,
+    type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
